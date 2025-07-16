@@ -1,4 +1,4 @@
-# 🔄 Traductor Fortran a Python — Ejercicios de Prueba
+# 🔄 Traductor Fortran a Python — Ejercicios de Pruebaa
 
 📦 Este repositorio contiene una colección de **programas en Fortran** preparados como **casos de prueba** que el traductor automático desarrollado en el proyecto puede convertir exitosamente a **Python**.  
 Estos archivos permiten verificar el correcto funcionamiento y compatibilidad del conversor construido con **Flex** y **Bison**.
